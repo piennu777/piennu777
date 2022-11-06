@@ -5,8 +5,8 @@
 ## My hobbies include programming, image and video editing, and gaming!
 ## I also like computers and touch them every day.
 
-* [🏠Home Page](http://piennu777.ml/)
-* [🎬YouTube](https://www.youtube.com/channel/UC2vkUJsWbd5vOyOjALPyrRQ/featured)
-* [🔷Discord](https://discord.io/piennu777)
+##  [🏠Home Page](http://piennu777.ml/)
+##  [🎬YouTube](https://www.youtube.com/channel/UC2vkUJsWbd5vOyOjALPyrRQ/featured)
+##  [🔷Discord](https://discord.io/piennu777)
 
 Check it out!
