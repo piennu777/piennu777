@@ -1,7 +1,5 @@
 ![Open Source at piennu777](https://github.com/piennu777/piennu777/blob/main/1111.png)
 
-## Details
-
 ## hello everyone!
 ## I like malware, games, and doing stupid things!
 ## My hobbies include programming, image and video editing, and gaming!
