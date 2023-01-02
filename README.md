@@ -6,7 +6,7 @@
 ## I also like computers and touch them every day.
 
 ##  [🏠Home Page](http://piennu777.ml/)
-##  [🎬YouTube](https://www.youtube.com/channel/UC2vkUJsWbd5vOyOjALPyrRQ/featured)
+##  [🎬YouTube](https://www.youtube.com/@piennu_777/featured)
 ##  [🔷Discord](https://discord.io/piennu777)
 
 Check it out!
