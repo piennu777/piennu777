@@ -7,6 +7,6 @@
 
 ##  [🏠Home Page](http://piennu777.ml/)
 ##  [🎬YouTube](https://www.youtube.com/@piennu_777/featured)
-##  [🔷Discord](https://discord.io/piennu777)
+##  [👥Discord](https://discord.io/piennu777)
 
 Check it out!
