@@ -1,7 +1,5 @@
 ![Open Source at piennu777](https://github.com/piennu777/piennu777/blob/main/bana.png)
 <h1 align="center">ようこそ！PIENNUのGithubへ！</h1>
-
-## ようこそ！
 プログラミングやマルウェアなどのジャンルを投稿しています。
 <br>
 あとバカなことをするのが好きですかねぇ
