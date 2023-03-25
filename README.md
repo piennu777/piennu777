@@ -11,6 +11,5 @@
 <br>
 あとバカなことをするのが好きですかねぇ
 
-# Languages
-https://github-readme-stats.vercel.app/api/top-langs/?username=piennu777&layout=compact&theme=dracula
-Check it out!
+## Languages
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piennu777&&theme=tokyonight" alt="rishavchanda" /></p>
