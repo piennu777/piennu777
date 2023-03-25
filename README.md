@@ -3,9 +3,14 @@
 <a href="https://piennu777.ml" target="blank"><img align="center" src="https://img.shields.io/badge/piennu777.ml-Check-blue" alt="rishav chanda"></a>
 <a href="https://discord.gg/yQ8FR2ugJ4" target="blank"><img align="center" src="https://img.shields.io/badge/piennu777.ml-Check-blue" alt="rishav chanda"></a>
 <h1>ようこそ！PIENNUのGithubへ！</h1>
+
+<h2>自己紹介</h2>
 <p>プログラミングやマルウェアなどのジャンルを投稿しています。
 <br>
-あとバカなことをするのが好きですかねぇ</p>
+あとバカなことをするのが好きですかねぇ。
+<br>
+趣味はプログラミングやパソコンをいじることです。
+</p>
 
 <h2 align="left">GITHUB</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piennu777&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="piennu777"/></p>
