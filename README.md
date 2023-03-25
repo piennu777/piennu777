@@ -6,7 +6,9 @@
 
 <h2>SNS</h3>
 <p align="left">
-[![]([https://img.shields.io/github/followers/miwashutaro0611?label=follow&logo=github&style=flat](https://img.shields.io/badge/YouTube-Chek-blue))
+ [ ![miwashutaro0611](https://komarev.com/ghpvc/?username=piennu777)
+](https://github.com/piennu777/)
+  [![]([https://img.shields.io/github/followers/miwashutaro0611?label=follow&logo=github&style=flat](https://img.shields.io/badge/YouTube-Chek-blue))
 ](https://www.youtube.com/@piennu_777)
 </p>
 
