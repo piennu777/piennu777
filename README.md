@@ -6,7 +6,8 @@
 
 <h2>SNS</h3>
 <p align="left">
-[<a href="[https://www.youtube.com/c/rishav chanda](https://www.youtube.com/@piennu_777)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg]https://img.shields.io/badge/YouTube-Chek-blue" alt="rishav chanda" height="30" width="40" /></a>
+[ ![YouTube]([https://komarev.com/ghpvc/?username=miwashutaro0611](https://img.shields.io/badge/YouTube-Chek-blue))
+](https://github.com/miwashutaro0611/miwashutaro0611/](https://www.youtube.com/@piennu_777)
 </p>
 
 <h2 align="left">GITHUB</h3>
