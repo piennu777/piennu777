@@ -6,8 +6,8 @@
 
 <h2>SNS</h3>
 <p align="left">
-[ ![YouTube]([https://komarev.com/ghpvc/?username=miwashutaro0611](https://img.shields.io/badge/YouTube-Chek-blue))
-](https://github.com/miwashutaro0611/miwashutaro0611/](https://www.youtube.com/@piennu_777)
+[![]([https://img.shields.io/github/followers/miwashutaro0611?label=follow&logo=github&style=flat](https://img.shields.io/badge/YouTube-Chek-blue))
+](https://www.youtube.com/@piennu_777)
 </p>
 
 <h2 align="left">GITHUB</h3>
