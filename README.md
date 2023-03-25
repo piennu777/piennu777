@@ -5,9 +5,7 @@
 あとバカなことをするのが好きですかねぇ</p>
 
 <h2>SNS</h3>
-<p align="left">
  [![My YouTube](https://img.shields.io/youtube/channel/subscribers/UC2vkUJsWbd5vOyOjALPyrRQ?style=social)](https://www.youtube.com/channel/UC2vkUJsWbd5vOyOjALPyrRQ)
-</p>
 
 <h2 align="left">GITHUB</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piennu777&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="piennu777"/></p>
