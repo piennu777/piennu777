@@ -4,7 +4,7 @@
 <br>
 あとバカなことをするのが好きですかねぇ</p>
 
-<h3 align="center">SNS</h3>
+<h2 align="center">SNS</h3>
 <p align="center">
 <a href="[https://www.youtube.com/c/rishav chanda](https://www.youtube.com/@piennu_777)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
