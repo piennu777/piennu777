@@ -2,11 +2,7 @@
 
 ## ようこそ！
 プログラミングやマルウェアなどのジャンルを投稿しています。
+<br>
 あとバカなことをするのが好きですかねぇ
-趣味はプログラミングとかパソコンをいじることとかですかね。
-
-##  [🏠Home Page](http://piennu777.ml/)
-##  [🎬YouTube](https://www.youtube.com/@piennu_777/featured)
-##  [👥Discord](https://discord.io/piennu777)
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=piennu777&layout=compact&theme=dracula
 Check it out!
