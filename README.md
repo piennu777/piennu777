@@ -4,5 +4,7 @@
 プログラミングやマルウェアなどのジャンルを投稿しています。
 <br>
 あとバカなことをするのが好きですかねぇ
+
+# Languages
 https://github-readme-stats.vercel.app/api/top-langs/?username=piennu777&layout=compact&theme=dracula
 Check it out!
