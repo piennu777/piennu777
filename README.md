@@ -5,8 +5,7 @@
 あとバカなことをするのが好きですかねぇ</p>
 
 <h2>SNS</h3>
-![My Profile views] (https://komarev.com/ghpvc/?username=piennu777)
- [![My YouTube](https://img.shields.io/youtube/channel/subscribers/UC2vkUJsWbd5vOyOjALPyrRQ?style=social)](https://www.youtube.com/channel/UC2vkUJsWbd5vOyOjALPyrRQ)
+<a href="https://www.youtube.com/@piennu_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 
 <h2 align="left">GITHUB</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piennu777&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="piennu777"/></p>
