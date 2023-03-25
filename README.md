@@ -5,6 +5,7 @@
 あとバカなことをするのが好きですかねぇ</p>
 
 <h2>SNS</h3>
+![My Profile views] (https://komarev.com/ghpvc/?username=piennu777)
  [![My YouTube](https://img.shields.io/youtube/channel/subscribers/UC2vkUJsWbd5vOyOjALPyrRQ?style=social)](https://www.youtube.com/channel/UC2vkUJsWbd5vOyOjALPyrRQ)
 
 <h2 align="left">GITHUB</h3>
