@@ -1,7 +1,7 @@
 ![Open Source at piennu777](https://github.com/piennu777/piennu777/blob/main/bana.png)
 <a href="https://www.youtube.com/@piennu_777" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-Check-red" alt="rishav chanda"></a>
 <a href="https://piennu777.ml" target="blank"><img align="center" src="https://img.shields.io/badge/piennu777.ml-Check-blue" alt="rishav chanda"></a>
-<a href="https://discord.gg/yQ8FR2ugJ4" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-Check-blue" alt="rishav chanda"></a>
+<a href="https://discord.gg/yQ8FR2ugJ4" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-participation-blueviolet" alt="rishav chanda"></a>
 <h1>ようこそ！PIENNUのGithubへ！</h1>
 
 <h2>自己紹介</h2>
