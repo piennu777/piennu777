@@ -7,7 +7,6 @@
 ## 🫠 Information
 主にエンジニアとして活動している学生です。趣味はマルウェアの感染、修復やサービスやツールの開発、動画編集や画像編集、あと時々バスケです。  
 YouTubeでは登録者1000人以上を獲得しています。  
-「死ぬこと以外かすり傷」「決まってしまった過去より何が起こるかわからない今のほうが楽しいに決まってる」「Good luck to you」  
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,php,mysql,cs,dotnet,blender,cloudflare,discordjs,replit,visualstudio,vscode" />  
