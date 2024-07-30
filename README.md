@@ -8,6 +8,8 @@
 主にエンジニアとして活動している学生です。趣味はマルウェアの感染、修復やサービスやツールの開発、動画編集や画像編集、あと時々バスケです。  
 YouTubeでは登録者1000人以上を獲得しています。  
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/851357394976899116)](https://discord.com/users/851357394976899116)
+
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,php,mysql,cs,dotnet,blender,cloudflare,discordjs,replit,visualstudio,vscode" />  
   
