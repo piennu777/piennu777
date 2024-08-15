@@ -13,8 +13,6 @@ YouTubeでは登録者1000人以上を獲得しています。
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,php,mysql,cs,dotnet,blender,cloudflare,discordjs,replit,visualstudio,vscode" />  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=piennu777)](https://github.com/ryo-ma/github-profile-trophy)
-  
 ## 👀 About Github
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piennu777&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="piennu777"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piennu777&&theme=tokyonight" alt="piennu777" /></p>
