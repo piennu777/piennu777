@@ -16,3 +16,14 @@ YouTubeでは登録者1000人以上を獲得しています。
 ## 👀 About Github
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piennu777&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="piennu777"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piennu777&&theme=tokyonight" alt="piennu777" /></p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=piennu777&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=piennu777&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=piennu777&show_icons=true" />
+</picture>
