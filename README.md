@@ -11,7 +11,7 @@ YouTubeでは登録者1000人以上を獲得しています。
 [![Discord Presence](https://lanyard.cnrad.dev/api/851357394976899116)](https://discord.com/users/851357394976899116)
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,php,mysql,cs,dotnet,blender,cloudflare,discordjs,replit,visualstudio,vscode" />  
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,nodejs,php,mysql,cs,dotnet,bots,discordjs,blender,cloudflare,replit,github,vercel,visualstudio,vscode,windows" />  
 
 ## 👀 About Github
 <picture>
