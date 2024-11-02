@@ -1,8 +1,3 @@
-<a href="https://www.youtube.com/@piennu_777" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-Check-ff7964.svg?style=for-the-badge" alt="rishav chanda"></a>
-<a href="https://discord.gg/yQ8FR2ugJ4" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-Join-811DF5.svg?style=for-the-badge" alt="rishav chanda"></a>
-<a href="https://twitter.com/piennu_777" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-Check-24a3f1.svg?style=for-the-badge" alt="rishav chanda"></a>
-<a href="https://piennu777.jp" target="blank"><img align="center" src="https://img.shields.io/badge/PIENNU777.JP-Check-fbcb30.svg?style=for-the-badge" alt="rishav chanda"></a>
-
 ## 🫠 My Info
 主にエンジニアとして活動している学生です。趣味はマルウェアの感染、修復やサービスやツールの開発、動画編集や画像編集、あと時々バスケです。  
 YouTubeでは登録者1000人以上を獲得しています。  
