@@ -19,3 +19,6 @@ YouTubeでは登録者1000人以上を獲得しています。
   />
   <img src="https://github-readme-stats.vercel.app/api?username=piennu777&show_icons=true" />
 </picture>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piennu777&layout=compact&theme=dark" />
+</picture>
